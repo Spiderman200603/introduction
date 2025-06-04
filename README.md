@@ -17,15 +17,6 @@
 
 <!-- Learning Journey Section -->
 ## 🚀 My Learning Journey
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ubaid-gundani&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=ubaid+gundani&theme=radical" alt="GitHub Streak" />
-</div>
-
 <!-- Skills Section -->
 ## 🛠️ Skills & Technologies
 
