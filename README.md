@@ -4,7 +4,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="100%">
 </div>
 
-<h1 align="center">Hi 👋, I'm ubaid gundani</h1>
+<h1 align="center">Hi 👋, I'm UBAID GUNDANI</h1>
 <h3 align="center">A passionate developer on a learning journey</h3>
 
 <!-- About Me Section -->
